@@ -1,57 +1,52 @@
 # Pakistani_Akinator_game
-📌 Description
+## Discriptions
+This is a C++ console-based game inspired by Akinator. It uses a series of yes/no questions to guess which Pakistani character (like a cricketer, national hero, politician, or prime minister) the user is thinking of. The project demonstrates key Object-Oriented Programming (OOP) concepts.
 
-A C++ console-based guessing game inspired by Akinator.
-The program asks yes/no questions and tries to guess the Pakistani character you're thinking of.
-It covers categories like Cricketers, National Heroes, Politicians, and Prime Ministers while showcasing OOP concepts in action.
+>  Developed as a semester project for the **Object-Oriented Programming (OOP)** course  
+>  **Department of Software Engineering**, MUST – Mirpur University of Science and Technology
 
-✨ Features
+---
 
-🔹 Guess characters using intelligent yes/no questions
+## Features
 
-🔹 Four categories: Cricketer, National Hero, Politician, Prime Minister
-🔹 Recognizes famous cricketers (Imran Khan, Afridi, Babar Azam, Rizwan, etc.)
-🔹 Identifies national heroes (Allama Iqbal, Quaid-e-Azam, Abdul Sattar Edhi, etc.)
-🔹 Polymorphic class structure using abstraction & inheritance
+- Guess characters using intelligent yes/no questions
+- Four character categories: Cricketer, National Hero, Politician, Prime Minister
+- Polymorphic class structure using abstraction and inheritance
+- Simple and interactive command-line interface
+- Reinforces OOP concepts with real-world application logic
 
-🔹 Interactive command-line interface
+---
 
-🔹 Reinforces real-world OOP applications
+##  OOP Concepts Used
 
-🏷️ OOP Concepts Used
+-  Abstract Class (`Person`)
+-  Inheritance
+-  Polymorphism (`Person* person = new Cricketer();`)
+-  Function Overriding
+-  Dynamic Memory Allocation
+  
+---
 
-Abstract Class (Person)
+##  Technologies
 
-Inheritance
+- **Language:** C++
+- **Paradigm:** Object-Oriented Programming
+- **Compiler/IDE:** Microsoft Visual Studio 2022
 
-Polymorphism (Person* person = new Cricketer();)
+---
 
-Function Overriding
+##  Team Members
 
-Dynamic Memory Allocation
+- Muhammad Adnan Arif  
+- Mudeer Ali  
+- **Rizwan Khan**  
+- Asad Ali 
 
-⚙️ Technologies
+Instructor: **Mam Aqsa Rashid**
 
-Language: C++
+---
 
-Paradigm: Object-Oriented Programming
-
-Compiler/IDE: Visual Studio 2022 / CodeBlocks / g++
-
-👨‍💻 Developers
-
-Muhammad Adnan Arif
-
-Mudeer Ali
-
-<span style="color:blue">RIZWAN KHAN</span>
-
-Asad Ali
-
-Instructor: <span style="color:blue">Mam Aqsa Rashid</span>
-📍 Department of Software Engineering, MUST – Mirpur University of Science and Technology
-
-
+## 📸 Screenshot (Optional)
 
 <img width="1265" height="757" alt="image" src="https://github.com/user-attachments/assets/e4117a27-f06e-46db-a3f0-613bf0356583" />
 
